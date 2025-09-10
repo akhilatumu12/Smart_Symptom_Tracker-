@@ -3,4 +3,7 @@ pandas
 bcrypt
 cryptography
 scikit-learn
-ploty
+plotly
+textblob
+numpy
+
