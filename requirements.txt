@@ -3,3 +3,4 @@ pandas
 bcrypt
 cryptography
 scikit-learn
+ploty
